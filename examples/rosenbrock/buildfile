@@ -1,0 +1,5 @@
+import libs = lyrahgames-optimization%lib{lyrahgames-optimization}
+import libs += lyrahgames-gnuplot%lib{lyrahgames-gnuplot}
+import libs += fmt%lib{fmt}
+
+exe{rosenbrock}: {hxx cxx}{**} $libs

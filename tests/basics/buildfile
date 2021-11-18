@@ -1,0 +1,4 @@
+import libs = lyrahgames-optimization%lib{lyrahgames-optimization}
+import libs += doctest%lib{doctest}
+
+exe{driver}: {hxx ixx txx cxx}{**} $libs testscript{**}
