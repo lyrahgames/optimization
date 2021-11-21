@@ -1,7 +1,7 @@
 : 1
 name: lyrahgames-optimization
 version: 0.1.0-a.0.z
-summary: lyrahgames-optimization C++ library
+summary: Header-Only C++ Library for Single-Objective Optimization
 license: GPL-3.0-or-later ; GNU General Public License v3.0 or later.
 
 description-file: README.md

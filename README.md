@@ -1,3 +1,1 @@
-# lyrahgames-optimization
-
-C++ library
+# Lyrahgames' Package for Single-Objective Optimization
